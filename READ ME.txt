@@ -1,0 +1,9 @@
+ok so this is the thing you read to get an idea of what we did or need to do
+things to remember:
+1:the links are now in file form meaning that you need to be careful with file names.
+2:if the project says something along the lines of not found it's usually because you messed with index.html it NEEDS to be named that for replit to recognize it.
+3:there are weird things happening with folders so dont organize things into them yet.
+now on to naming:
+H- is index related
+N- is news page related
+more to come
