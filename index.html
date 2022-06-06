@@ -1,23 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link href="H-style.css" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+<link href="_style.css" rel="stylesheet" type="text/css" />
+<link href = "UniversalMenu.css" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?
+family=Amatic+SC" rel="stylesheet">
 <title>Page Title</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 
-<div class="navbar1">
-<a href="index.html">Home</a>
+<div class="navbar1" id="navbar1">
+ <img src="photos/logo.png" usemap="#map2" style="width:48px;height48px;float:left;">
+    <map name="map2">
+  <area shape="rect" coords="0,0,48,48" alt="Computer" href="index.html">
+    </map>
 <a href="N-index.html">News</a>
 <div class="dropdown1">
   <button class="dropbtn1">Dropdown 
     <i class="fa fa-caret-down1"></i>
   </button>
   <div class="dropdown-content1">
-    <a href="#">Link 1</a>
+    <a href="1-index.html">About us</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
@@ -33,25 +38,15 @@
   </div>
 </div> 
 </div>
-  
-  
+
+
 <div class="header">
- <h1>The Student Initiative</h1>
- <p>A Website Made by Me</p>
-
+  <img id="img1" src="photos/logo.png">
+  <h1>The Student Initiative</h1>
+ <p>An Initiative for Student Advocacy</p>
 </div>
 
 
-  
-  
-  <div class="dog">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Uiy-5lDV8xPcpy32U3gx7uqXLmHhi1tNt5qnJgaCCgc6RiCjiNePMTyVgVF4wrDqjgQ:https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg&usqp=CAU" alt="alternatetext" usemap="#map1">
-    <map name="map1">
-  <area shape="rect" coords="80,90,120,130" alt="Computer" href="https://student-advocacy-project-B.paulrodeheaver.repl.co">
-</map>
-
-</div>
-  
 <h1>What my Website is about.</h1>
 <p>boop da snoot</p>
 <div class="footer">
@@ -66,4 +61,5 @@
 </div>
   
 </body>
+<script src="UniversalScript.js"></script>
 </html>
