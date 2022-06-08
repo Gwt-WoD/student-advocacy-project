@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+ .essay {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+/*make a class in the body not around the body
+thanks*/

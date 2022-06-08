@@ -2,15 +2,17 @@ ok so this is the thing you read to get an idea of what we did or need to do
 things to remember:
 1:the links are now in file form meaning that you need to be careful with file names.
 2:if the project says something along the lines of not found it's usually because you messed with index.html it NEEDS to be named that for replit to recognize it.
-3:there are weird things happening with folders so dont organize things into them yet.
-now on to naming:
-_ is index related
-N- is news page related
 4:omg this actually worked this project is now an actual website its on cloudflare as https://student-advocacy-project.pages.dev you cant go to it on your chrome book but can check it out on your home computer
 5:Made "UniversalMenu.css" to hold the shared .css stuff that is used everywhere for the menus.  I will try to do the same with the HTML files but I'm not really sure how
 
-^^^don't do the html files thay are actually different pages so that makes cloudflare able to treat it as 3 pages now
+^^^don't do the html files they are actually different pages so that makes cloudflare able to treat it as 3 pages now
+
+^^^Got the UniversalScript.js to add the menu in everywhere the same menu.  It is definitally a real mess but I couldn't find a better way (I was going to have it just copy and paste everything in UniversalMenu.html onto every page but that doesn't quite work)
 
 IMPORTANT BUGS THAT NEED TO BE FIXED
 
-Is the header and body supposed to be with the navbar or can i just put that back in the main page index?
+  
+  it is actually being pasted to every document so that it just clears up nicer also now since we have universal style we can delete evry single style EXCEPT THE _style.css that has some poorly named/unamed classes so as soon as they are named it will work
+
+Ok dumb question can you commit and push the project? if so then you can update the actual website at 
+student-advocacy-project.pages.dev 

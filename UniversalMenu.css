@@ -2,21 +2,25 @@
    box-sizing: border-box;
 }
 body {
-   font-family: 'Amatic SC', cursive;
+   font-family: 'Outfit', sans-serif;
    margin: 0;
    text-align:center;
 }
-.header {
-   padding: 80px;
+header {
+   margin:0px 0px 80px 0px;
+   padding-top: 80px;
+   padding-bottom: 80px;
    text-align: center;
    background: rgba(240, 128, 128, 0.445);
    color:cadetblue;
+  
 }
-
+/*if you want to change the style of the navbar for fonts do it here*/
 .navbar1 {
   overflow: hidden;
   background-color: #333;
   position:fixed;
+  font-family: 'Outfit', sans-serif;
 
 }
 .navbar1 a {
@@ -118,4 +122,87 @@ body {
 @keyframes mymove {
   from {top: -133px;}
   to {top: 47px;}
+}
+.yay {
+  font-family: 'Outfit', sans-serif;
+  margin: 0;
+  font-size:200px;
+  text-align:center;
+  background: #ddd;
+  float: top;
+}
+.footer {
+   font-family: 'Outfit', sans-serif;
+   background: #333;
+   background-size: 0px width;
+   overflow:hidden;
+}
+.footer .moreonus {
+   font-family: inherit;
+   padding: 10px 50px;
+   text-align:left;
+   background: inherit;
+   font-size:15px;
+   float: left;
+}
+.footer .moreonus p{
+   text-align: inherit;
+   background: inherit;
+   font-size: inherit;
+   position: 500px;
+   color: #fff;  
+  
+   
+}
+.footer .moreonus h1{
+   text-align:left;
+   background: inherit;
+   font-size: inherit;
+   color: #fff;  
+}
+.footer .followus {
+   font-family: inherit;
+   padding: 10px 50px;
+   text-align:left;
+   background: inherit;
+   font-size:15px;
+   float: right;
+}
+.footer .followus p{
+   text-align: inherit;
+   background: inherit;
+   font-size: inherit;
+   position: 500px;
+  
+   
+}
+.footer .followus h1{
+   text-align:left;
+   background: inherit;
+   font-size: inherit;
+   color: #fff;  
+}
+.footer .ourwork {
+   font-family: inherit;
+   padding: 10px;
+   text-align:left;
+   background: #333;
+   font-size:10px;
+   float: right;
+  
+}
+.footer .ourwork p{
+   text-align: inherit;
+   background: #333;
+   font-size:15px;
+   position: 500px;
+  
+   
+}
+.footer .ourwork h1{
+   padding: 1px;
+   text-align:left;
+   background: #333;
+   font-size:15px;
+   color: #fff;  
 }
