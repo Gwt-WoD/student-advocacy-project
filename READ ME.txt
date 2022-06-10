@@ -14,5 +14,3 @@ IMPORTANT BUGS THAT NEED TO BE FIXED
   
   it is actually being pasted to every document so that it just clears up nicer also now since we have universal style we can delete evry single style EXCEPT THE _style.css that has some poorly named/unamed classes so as soon as they are named it will work
 
-Ok dumb question can you commit and push the project? if so then you can update the actual website at 
-student-advocacy-project.pages.dev 
