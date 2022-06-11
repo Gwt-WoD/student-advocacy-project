@@ -3,14 +3,17 @@ things to remember:
 1:the links are now in file form meaning that you need to be careful with file names.
 2:if the project says something along the lines of not found it's usually because you messed with index.html it NEEDS to be named that for replit to recognize it.
 4:omg this actually worked this project is now an actual website its on cloudflare as https://student-advocacy-project.pages.dev you cant go to it on your chrome book but can check it out on your home computer
-5:Made "UniversalMenu.css" to hold the shared .css stuff that is used everywhere for the menus.  I will try to do the same with the HTML files but I'm not really sure how
 
-^^^don't do the html files they are actually different pages so that makes cloudflare able to treat it as 3 pages now
 
-^^^Got the UniversalScript.js to add the menu in everywhere the same menu.  It is definitally a real mess but I couldn't find a better way (I was going to have it just copy and paste everything in UniversalMenu.html onto every page but that doesn't quite work)
 
-IMPORTANT BUGS THAT NEED TO BE FIXED
 
-  
-  it is actually being pasted to every document so that it just clears up nicer also now since we have universal style we can delete evry single style EXCEPT THE _style.css that has some poorly named/unamed classes so as soon as they are named it will work
 
+1:fix the delegate tasks document https://docs.google.com/document/d/1UaPhrPhNrN8FPQlnXsRVD5rA_WcbPNbCq0N_n7aBNfQ/edit
+2:get the ativism is easier said than done document in
+https://docs.google.com/document/d/1XQABAa3dYPO-8dOBqUjJXgp8r_8_fHg7CvEDnjAZXHY/edit
+3:clean up the donations page
+4: Add links somewhere to page
+Social Media Awareness Department Form:
+https://docs.google.com/forms/d/e/1FAIpQLSeId_y3V20rIajFrH7QSBrrm8Ot5swWDTzYlnQ6dJMP0Frb4Q/viewform
+Improving our Wbsite form:
+https://docs.google.com/forms/d/e/1FAIpQLSfkbNw47kiIqV4F-bxmUqfAcQAy3G5SoM9JfYeMzlvY9m8mAQ/viewform

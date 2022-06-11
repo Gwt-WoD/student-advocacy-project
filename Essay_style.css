@@ -11,9 +11,18 @@
 .center {
   text-align: center;
 }
-img: {
+.img {
   margin:auto;
+}
+.bold {
+  font-weight:bold;
+  font-size:20px;
   
+}
+.title {
+  font-weight: bold; 
+  font-size:24; 
+  padding:0px 
 }
 /* make a class in the body not around the body
 thanks */
