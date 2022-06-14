@@ -1,21 +1,17 @@
 IMPORTANT PLEASE READ!!!
-to anyne reading this in the future the way to redeploy the website is to replace the current github project with a different copy if you see this on github go to https://replit.com/@PAULRODEHEAVER/student-advocacy-project#READ%20ME.txt and copy it then git hub repository it and use that in the website. if you have ANY QUESTIONS contact me at 624449@lkstevens.wednet.edu and once you figure it out. Be sure to pass it on.
+To anyone reading this in the future. If you want to edit this project then copy the repl.it project at https://replit.com/@PAULRODEHEAVER/student-advocacy-project. In this new version, compile it using verson control to a github repository. Then ask Ms. Guilfoil to open cloudflare. Replace the old github repository in the website's pages tab with the new github repository. 
+
+If you have ANY QUESTIONS contact me at 624449@lkstevens.wednet.edu
+
+Once you figure it out. Be sure to pass it on. Please also try to explain it better.
 !!!
 
-
-ok so this is the thing you read to get an idea of what we did or need to do
-things to remember:
-1:the links are now in file form meaning that you need to be careful with file names.
-2:if the project says something along the lines of not found it's usually because you messed with index.html it NEEDS to be named that for replit to recognize it.
-4:omg this actually worked this project is now an actual website its on cloudflare as https://student-advocacy-project.pages.dev you cant go to it on your chrome book but can check it out on your home computer
+Things to remember:
+1:The links are in file form so you need to be careful with file names.
+2:If you run the project and it says something along the lines of repl not found it's usually because you messed with index.html it NEEDS to be named that for replit to run.(If you have this by clicking a link it's probably named wrong.) PS:Other files are juust named index for no real reason.
 
 
-
-
-
-1:fix the delegate tasks document https://docs.google.com/document/d/1UaPhrPhNrN8FPQlnXsRVD5rA_WcbPNbCq0N_n7aBNfQ/edit
-2:finish linking up activism is easier said than done document https://docs.google.com/document/d/1XQABAa3dYPO-8dOBqUjJXgp8r_8_fHg7CvEDnjAZXHY/edit
-3:clean up the donations page
-4: Add links somewhere to page
-Social Media Awareness Department Form:
-https://docs.google.com/forms/d/e/1FAIpQLSeId_y3V20rIajFrH7QSBrrm8Ot5swWDTzYlnQ6dJMP0Frb4Q/viewform
+Things to Fix:
+1:Finish linking up activism is easier said than done document https://docs.google.com/document/d/1XQABAa3dYPO-8dOBqUjJXgp8r_8_fHg7CvEDnjAZXHY/edit
+2:Clean up the donations page
+3:Add links somewhere to the Social Media Awareness Department Form: https://docs.google.com/forms/d/e/1FAIpQLSeId_y3V20rIajFrH7QSBrrm8Ot5swWDTzYlnQ6dJMP0Frb4Q/viewform
