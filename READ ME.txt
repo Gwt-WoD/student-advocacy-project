@@ -1,3 +1,8 @@
+IMPORTANT PLEASE READ!!!
+to anyne reading this in the future the way to redeploy the website is to replace the current github project with a different copy if you see this on github go to https://replit.com/@PAULRODEHEAVER/student-advocacy-project#READ%20ME.txt and copy it then git hub repository it and use that in the website. if you have ANY QUESTIONS contact me at 624449@lkstevens.wednet.edu and once you figure it out. Be sure to pass it on.
+!!!
+
+
 ok so this is the thing you read to get an idea of what we did or need to do
 things to remember:
 1:the links are now in file form meaning that you need to be careful with file names.
@@ -14,5 +19,3 @@ things to remember:
 4: Add links somewhere to page
 Social Media Awareness Department Form:
 https://docs.google.com/forms/d/e/1FAIpQLSeId_y3V20rIajFrH7QSBrrm8Ot5swWDTzYlnQ6dJMP0Frb4Q/viewform
-Improving our Website form: (added under more on us)
-https://docs.google.com/forms/d/e/1FAIpQLSfkbNw47kiIqV4F-bxmUqfAcQAy3G5SoM9JfYeMzlvY9m8mAQ/viewform
